@@ -1,4 +1,4 @@
-# -*- coding:utf-8 -*-
+﻿# -*- coding:utf-8 -*-
 # from importlib import reload
 
 import requests
@@ -100,5 +100,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+# spiderweather
 
 # 爬去到数据后接着就是进行数据分析，即数据的可视化
